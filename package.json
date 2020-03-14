@@ -1,0 +1,21 @@
+{
+  "name": "@react-go/babel-plugin-auto-css-modules",
+  "version": "1.0.0",
+  "description": "Automatically identify CSS Modules",
+  "main": "index.js",
+  "author": "pengtikui <949828390@qq.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/react-go/babel-plugin-auto-css-modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/react-go/babel-plugin-auto-css-modules/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "@babel/core": "7.x"
+  }
+}
